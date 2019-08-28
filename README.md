@@ -18,15 +18,16 @@ Step 2
 Step 3
 - RGB Channels split & convert HSV 2 Gray
 - Gaussian Blur
-
+Step 4
 Morphological Transformations
 - Canny edge detection
 - Dilation
 - Erosion
 
-- find countours
+Step 5
+- find and count countours on edged image
 - Defining Countour AREA
-- Convex hull
+- Convex hull boundaries
 - Draw contours i.e. mark all findings with different colors
 ```
 #### Usage
