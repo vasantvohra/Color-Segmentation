@@ -71,10 +71,11 @@ for color in colors:
     elif color == 'green' and Color == 'hsv':
         lower=np.array([36,25,25])
         upper=np.array([70,255,255])
+        # GREEN RGB BOUNDARIES Not working
     elif color == 'green' and Color == 'rgb':
         lower=np.array([124,252,0])
         upper=np.array([107,142,35])
-      # GREEN BOUNDARIES MISSING
+      
       
 ##    elif color == 'black':
 ##        lower=np.array([0, 0, 0])
@@ -93,7 +94,7 @@ for color in colors:
         if cv2.waitKey(10) & 0xFF == ord('q'):
             break
     ## load the image, convert it to grayscale, and blur it slightly
-    #image_gray = cv2.cvtColor(image_res, cv2.COLOR_HSV2GRAY) # BGR 2 GRY
+    #image_gray = cv2.cvtColor(image_res, cv2.COLOR_BGR2GRAY) # BGR 2 GRY
     a,c,image_gray = cv2.split(image_res)
     image_gray = cv2.GaussianBlur(image_gray, (5, 5), 0)
     # MORPHOLOGICAL TRANSFORMATION
