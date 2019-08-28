@@ -1,5 +1,6 @@
-# Color-Segmentation 
+# Color-Segmentation  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://github.com/vasantvohra/Color-Segmentation/blob/master/color_segment.py)
 
+[Color_Segment.py](https://github.com/vasantvohra/Color-Segmentation/blob/master/color_segment.py)
 ### TASK
  > * Count the number of segregated colored trash bags
 ---
