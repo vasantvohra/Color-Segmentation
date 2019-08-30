@@ -45,3 +45,11 @@ python color_segment.py -i garbagebags2.jpg -o output.png -c rgb
 ---
 ### Result Screenshot
 ![Demo](https://github.com/vasantvohra/Color-Segmentation/blob/master/counting.png)
+## Other Example
+
+![input](https://github.com/vasantvohra/Color-Segmentation/blob/master/coloredimage.jpeg)
+![output](https://github.com/vasantvohra/Color-Segmentation/blob/master/ouput.jpg)
+
+### Next step do:
+#### Pantopic Instance segmentation
+![input](https://github.com/vasantvohra/Color-Segmentation/blob/master/count%20people.png)
