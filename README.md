@@ -45,16 +45,20 @@ python color_segment.py -i garbagebags2.jpg -o output.png -c rgb
 ---
 ### Result Screenshot
 ![Demo](https://github.com/vasantvohra/Color-Segmentation/blob/master/counting.png)
+
 ---
+
 ## Other Example
 
 ![input](https://github.com/vasantvohra/Color-Segmentation/blob/master/coloredimage.jpeg) ![output](https://github.com/vasantvohra/Color-Segmentation/blob/master/out.png)
 ![result](https://github.com/vasantvohra/Color-Segmentation/blob/master/thumbpin%20count.png)
-
-### Next step do:
-#### Pantopic Instance segmentation
-![input](https://github.com/vasantvohra/Color-Segmentation/blob/master/count%20people.png)
 ---
+### Next steps:
+#### Try Panoptic / Instance segmentation
+![input](https://github.com/vasantvohra/Color-Segmentation/blob/master/count%20people.png)
+
+---
+
 ## Applications
 [Automatic Color Segmentation of Images with
 Application to Detection of Variegated
