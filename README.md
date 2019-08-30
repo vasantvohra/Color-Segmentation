@@ -1,4 +1,4 @@
-# Color-Segmentation  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://github.com/vasantvohra/Color-Segmentation/blob/master/color_segment.py)
+# Color-Segmentation  [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://github.com/vasantvohra/Color-Segmentation/blob/master/color_segment.py) [![forthebadge](https://forthebadge.com/images/badges/powered-by-responsibility.svg)](https://forthebadge.com)
 
 [Color_Segment.py](https://github.com/vasantvohra/Color-Segmentation/blob/master/color_segment.py)
 ### TASK
