@@ -47,8 +47,8 @@ python color_segment.py -i garbagebags2.jpg -o output.png -c rgb
 ![Demo](https://github.com/vasantvohra/Color-Segmentation/blob/master/counting.png)
 ## Other Example
 
-![input](https://github.com/vasantvohra/Color-Segmentation/blob/master/coloredimage.jpeg)
-![output](https://github.com/vasantvohra/Color-Segmentation/blob/master/ouput.jpg)
+![input](https://github.com/vasantvohra/Color-Segmentation/blob/master/coloredimage.jpeg) ![output](https://github.com/vasantvohra/Color-Segmentation/blob/master/out.png)
+![result](https://github.com/vasantvohra/Color-Segmentation/blob/master/thumbpin%20count.png)
 
 ### Next step do:
 #### Pantopic Instance segmentation
