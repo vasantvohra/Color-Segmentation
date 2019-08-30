@@ -61,3 +61,5 @@ Application to Detection of Variegated
 Coloring in Skin Tumors](http://groups.inf.ed.ac.uk/vision/MCDONAGH/related%20work/literature/Automatic%20color%20segmentation%20of%20images%20with%20application%20todetection%20of%20variegated%20coloring%20in%20skin%20tumors.pdf)
 
 [Color Image Segmentation for Multimedia Applications](https://link.springer.com/article/10.1023/A:1008163913937)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
