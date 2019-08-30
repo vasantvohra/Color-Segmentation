@@ -109,7 +109,8 @@ for color in colors:
     # find contours in the edge map
     cnts = cv2.findContours(image_edged.copy(), cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_SIMPLE)
     
-    ### Understand..............
+    
+    #The cv2.findContours function in OpenCV 2.4 returns a 2-tuple while in OpenCV 3 it returns a 3-tuple
     cnts = cnts[0] if imutils.is_cv2() else cnts[1]
  
     # loop over the contours individually
