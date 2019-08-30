@@ -33,8 +33,8 @@ Step 5
 #### Usage
 ---
 ```sh
-python color_segment3.py -i garbagebags2.jpg -o output.png -c hsv
-python color_segment3.py -i garbagebags2.jpg -o output.png -c rgb
+python color_segment.py -i garbagebags2.jpg -o output.png -c hsv
+python color_segment.py -i garbagebags2.jpg -o output.png -c rgb
 ```
 ---
 ### Input
