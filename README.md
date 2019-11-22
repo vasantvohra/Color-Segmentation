@@ -19,8 +19,9 @@ Step 3
 - RGB Channels split & convert HSV 2 Gray
 - Gaussian Blur
 Step 4
-Morphological Transformations
+Corner Edge Detection
 - Canny edge detection
+Morphological Transformations
 - Dilation
 - Erosion
 
