@@ -1,6 +1,6 @@
 import numpy as np
 import argparse
-import imutils
+#import imutils
 import cv2
 
 #USAGE
@@ -111,8 +111,8 @@ for color in colors:
     
     
     #The cv2.findContours function in OpenCV 2.4 returns a 2-tuple while in OpenCV 3 it returns a 3-tuple
-    cnts = cnts[0] if imutils.is_cv2() else cnts[1]
- 
+    #cnts = cnts[0] if imutils.is_cv2() else cnts[1]
+    cnts = cnts[0] if len(cnts) == 2 else cnts[1]
     # loop over the contours individually
     for c in cnts:
          
