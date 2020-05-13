@@ -39,24 +39,24 @@ python color_segment.py -i garbagebags2.jpg -o output.png -c rgb
 ```
 ---
 ### Input
-![input](https://github.com/vasantvohra/Color-Segmentation/blob/master/garbagebags2.jpg) 
+![input](https://raw.githubusercontent.com/vasantvohra/Color-Segmentation/master/garbagebags2.jpg) 
 ### Output
-![output](https://github.com/vasantvohra/Color-Segmentation/blob/master/output.jpg)
+![output](https://raw.githubusercontent.com/vasantvohra/Color-Segmentation/master/output.jpg)
 
 ---
 ### Result Screenshot
-![Demo](https://github.com/vasantvohra/Color-Segmentation/blob/master/counting.png)
+![Demo](https://raw.githubusercontent.com/vasantvohra/Color-Segmentation/master/counting.png)
 
 ---
 
 ## Other Example
 
-![input](https://github.com/vasantvohra/Color-Segmentation/blob/master/coloredimage.jpeg) ![output](https://github.com/vasantvohra/Color-Segmentation/blob/master/out.png)
-![result](https://github.com/vasantvohra/Color-Segmentation/blob/master/thumbpin%20count.png)
+![input](https://raw.githubusercontent.com/vasantvohra/Color-Segmentation/master/coloredimage.jpeg) ![output](https://raw.githubusercontent.com/vasantvohra/Color-Segmentation/master/out.png)
+![result](https://raw.githubusercontent.com/vasantvohra/Color-Segmentation/master/thumbpin%20count.png)
 ---
 ### Next steps:
 #### Try Panoptic / Instance segmentation
-![input](https://github.com/vasantvohra/Color-Segmentation/blob/master/count%20people.png)
+![input](https://raw.githubusercontent.com/vasantvohra/Color-Segmentation/master/count%20people.png)
 
 ---
 
