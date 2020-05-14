@@ -11,6 +11,7 @@ Step 1
 - convert BGR to HSV
 - finding fixed colors, Blue, Yellow , Red, Green
 - Specifying RGB/HSV Boundaries : lower / upper
+
 Step 2
 - creating mask of image by cv2.inRange(image, lower, upper)
 - Applying the masking to residual img by cv2.bitwise_and
@@ -18,6 +19,7 @@ Step 2
 Step 3
 - RGB Channels split & convert HSV 2 Gray
 - Gaussian Blur
+
 Step 4
 Corner Edge Detection
 - Canny edge detection
@@ -30,6 +32,7 @@ Step 5
 - Defining Countour AREA
 - Convex hull boundaries
 - Draw contours i.e. mark all findings with different colors
+
 ```
 #### Usage
 ---
